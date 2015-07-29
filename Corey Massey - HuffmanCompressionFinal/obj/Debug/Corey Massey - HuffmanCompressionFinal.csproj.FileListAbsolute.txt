@@ -1,0 +1,6 @@
+C:\Users\Corey Massey\Documents\CSC250\Corey Massey - HuffmanCompressionFinal\Corey Massey - HuffmanCompressionFinal\bin\Debug\Corey Massey - HuffmanCompressionFinal.exe.config
+C:\Users\Corey Massey\Documents\CSC250\Corey Massey - HuffmanCompressionFinal\Corey Massey - HuffmanCompressionFinal\bin\Debug\Corey Massey - HuffmanCompressionFinal.exe
+C:\Users\Corey Massey\Documents\CSC250\Corey Massey - HuffmanCompressionFinal\Corey Massey - HuffmanCompressionFinal\bin\Debug\Corey Massey - HuffmanCompressionFinal.pdb
+C:\Users\Corey Massey\Documents\CSC250\Corey Massey - HuffmanCompressionFinal\Corey Massey - HuffmanCompressionFinal\obj\Debug\Corey Massey - HuffmanCompressionFinal.csprojResolveAssemblyReference.cache
+C:\Users\Corey Massey\Documents\CSC250\Corey Massey - HuffmanCompressionFinal\Corey Massey - HuffmanCompressionFinal\obj\Debug\Corey Massey - HuffmanCompressionFinal.exe
+C:\Users\Corey Massey\Documents\CSC250\Corey Massey - HuffmanCompressionFinal\Corey Massey - HuffmanCompressionFinal\obj\Debug\Corey Massey - HuffmanCompressionFinal.pdb
