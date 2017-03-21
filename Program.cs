@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Corey_Massey___HuffmanCompressionFinal
+namespace Huffman-Compression
 {
     class Program
     {

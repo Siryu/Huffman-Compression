@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Corey_Massey___HuffmanCompressionFinal.Models
+namespace Huffman-Compression.Models
 {
     public class HuffmanNode
     {
