@@ -1,4 +1,4 @@
-﻿using Corey_Massey___HuffmanCompressionFinal.Models;
+﻿using Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
